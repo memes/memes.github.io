@@ -1,53 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Matthew Emes</title>
+    <title>About Me on Matthew Emes</title>
     <link>/about/index.xml</link>
-    <description>Recent content in Abouts on Matthew Emes</description>
+    <description>Recent content in About Me on Matthew Emes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2016 Matthew Emes. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).</copyright>
     <lastBuildDate>Fri, 19 Aug 2016 08:30:02 -0700</lastBuildDate>
     <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Fri, 19 Aug 2016 08:30:02 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m Cloud Architect with over 25 years of IT, development and
-operations experience. I like to create new things from an idea and
-see them through to completion.&lt;/p&gt;
-
-&lt;p&gt;I recently
-started &lt;a href=&#34;https://sarumtechnologies.com/&#34;&gt;Sarum Technologies Inc&lt;/a&gt; as a
-consultant on public cloud migration and application development. I
-focus on delivering solutions for AWS, GCP and Azure, and am involved
-in the full life-cycle of development and deployment, through to
-optimisation and monitoring.&lt;/p&gt;
-
-&lt;p&gt;I am a father of two teenage boys, and I live in Orange County, CA
-with my beautiful wife. I cannot determine which of these facts is the
-most preposterous to me.&lt;/p&gt;
-
-&lt;h2 id=&#34;current-gpg-fingerprint&#34;&gt;Current GPG Fingerprint&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;    EE26 64DD 38F5 3BA6 849E  99B7 7574 4633 3D3E C29A
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you &lt;em&gt;think&lt;/em&gt; you know what this is, cool. If you &lt;strong&gt;know&lt;/strong&gt; what this
-is, and want to verify then we can arrange a meeting. Any other keys
-that match my name are either hopelessly out of date, or lost to
-failed disks drives.&lt;/p&gt;
-
-&lt;p&gt;I am on &lt;a href=&#34;https://keybase.io/&#34;&gt;keybase&lt;/a&gt; too and I still have
-some invites available. Hit me up at &lt;a href=&#34;https://keybase.io/memes&#34;&gt;https://keybase.io/memes&lt;/a&gt; if you
-would like an invite.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
