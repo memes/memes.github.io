@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017 Matthew Emes. Except where explicitlty noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Sat, 04 Feb 2017 20:44:21 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 13:46:46 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.Net</title>
+      <link>/tags/.net/</link>
+      <pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate>
+      
+      <guid>/tags/.net/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Consulting</title>
@@ -18,6 +27,15 @@
       <pubDate>Sat, 04 Feb 2017 20:44:21 -0800</pubDate>
       
       <guid>/tags/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>/tags/debian/</link>
+      <pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate>
+      
+      <guid>/tags/debian/</guid>
       <description></description>
     </item>
     
@@ -40,6 +58,15 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neudesic</title>
       <link>/tags/neudesic/</link>
       <pubDate>Fri, 07 Apr 2017 21:13:15 -0700</pubDate>
@@ -54,6 +81,15 @@
       <pubDate>Sat, 04 Feb 2017 20:44:21 -0800</pubDate>
       
       <guid>/tags/profinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segfault</title>
+      <link>/tags/segfault/</link>
+      <pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate>
+      
+      <guid>/tags/segfault/</guid>
       <description></description>
     </item>
     

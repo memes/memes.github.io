@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/dotnet-core-sdk-on-debian-testing/</loc>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/google-certified-professional-cloud-architect/</loc>
     <lastmod>2017-05-17T13:25:21-07:00</lastmod>
   </url>
@@ -23,6 +28,12 @@
   </url>
   
   <url>
+    <loc>/tags/.net/</loc>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -30,6 +41,12 @@
   <url>
     <loc>/tags/consulting/</loc>
     <lastmod>2017-02-04T20:44:21-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/debian/</loc>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,8 +63,14 @@
   </url>
   
   <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +82,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,19 +93,25 @@
   </url>
   
   <url>
+    <loc>/tags/segfault/</loc>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-02-04T20:44:21-08:00</lastmod>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/work/</loc>
-    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
+    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
