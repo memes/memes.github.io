@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/google-certified-professional-cloud-architect/</loc>
+    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-job-at-neudesic/</loc>
+    <lastmod>2017-04-07T21:13:15-07:00</lastmod>
+  </url>
   
   <url>
     <loc>/post/profinder/</loc>
@@ -23,6 +34,12 @@
   </url>
   
   <url>
+    <loc>/tags/google-cloud-platform/</loc>
+    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/linkedin/</loc>
     <lastmod>2017-02-04T20:44:21-08:00</lastmod>
     <priority>0</priority>
@@ -30,13 +47,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-02-04T20:44:21-08:00</lastmod>
+    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/neudesic/</loc>
+    <lastmod>2017-04-07T21:13:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-02-04T20:44:21-08:00</lastmod>
+    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,13 +70,19 @@
   </url>
   
   <url>
+    <loc>/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2017-02-04T20:44:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/work/</loc>
-    <lastmod>2017-02-04T20:44:21-08:00</lastmod>
+    <lastmod>2017-05-17T13:25:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   

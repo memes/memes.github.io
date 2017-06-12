@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consulting on Matthew Emes</title>
-    <link>/tags/consulting/index.xml</link>
+    <link>/tags/consulting/</link>
     <description>Recent content in Consulting on Matthew Emes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2016 Matthew Emes. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <atom:link href="/tags/consulting/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2017 Matthew Emes. Except where explicitlty noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Sat, 04 Feb 2017 20:44:21 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/consulting/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Profinder</title>
@@ -15,24 +18,8 @@
       <pubDate>Sat, 04 Feb 2017 20:44:21 -0800</pubDate>
       
       <guid>/post/profinder/</guid>
-      <description>
-
-&lt;p&gt;I responded to my first Profinder request earlier today, and I am
-curious to see how well it works in practice. Seems like people simply
-fill in a form with a few key items, and LinkedIn mines it&amp;rsquo;s database
-for matching profiles that have signed up for Profinder.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t know how well this will work out for development projects, as
-the details as provided by the potential client are not very detailed
-and I can see how there will be a lot of back and forth in order to
-create a realistic proposal, but I&amp;rsquo;m willing to give it a shot.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll report back if there are updates.&lt;/p&gt;
-
-&lt;h3 id=&#34;obligatory-badge&#34;&gt;Obligatory badge&lt;/h3&gt;
-
-&lt;p&gt;&lt;div class=&#34;LI-profile-badge&#34; data-version=&#34;v1&#34; data-size=&#34;medium&#34; data-locale=&#34;en_US&#34; data-type=&#34;profinder&#34; data-theme=&#34;light&#34; data-vanity=&#34;matthewemes&#34;&gt;&lt;a class=&#34;LI-simple-link&#34; href=&#34;https://www.linkedin.com/profinder/pro/matthewemes?trk=profinder-badge&#34;&gt;Matthew Emes&lt;/a&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://platform.linkedin.com/badges/js/profile.js&#34; async defer&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
+      <description>I responded to my first Profinder request earlier today, and I am curious to see how well it works in practice. Seems like people simply fill in a form with a few key items, and LinkedIn mines it&amp;rsquo;s database for matching profiles that have signed up for Profinder.
+I don&amp;rsquo;t know how well this will work out for development projects, as the details as provided by the potential client are not very detailed and I can see how there will be a lot of back and forth in order to create a realistic proposal, but I&amp;rsquo;m willing to give it a shot.</description>
     </item>
     
   </channel>

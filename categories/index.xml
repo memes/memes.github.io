@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on Matthew Emes</title>
-    <link>/about/</link>
-    <description>Recent content in About Me on Matthew Emes</description>
+    <title>Categories on Matthew Emes</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Matthew Emes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017 Matthew Emes. Except where explicitlty noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Fri, 19 Aug 2016 08:30:02 -0700</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work</title>
+      <link>/categories/work/</link>
+      <pubDate>Wed, 17 May 2017 13:25:21 -0700</pubDate>
+      
+      <guid>/categories/work/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
