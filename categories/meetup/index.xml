@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on </title>
+    <link>https://matthewemes.com/categories/meetup/</link>
+    <description>Recent content in Meetup on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2017 Matthew Emes. Except where explicitly noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (see https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Wed, 11 Oct 2017 17:33:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://matthewemes.com/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OC Google Cloud Platform Meetup - October 2017</title>
+      <link>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup---october-2017/</link>
+      <pubDate>Wed, 11 Oct 2017 17:33:41 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup---october-2017/</guid>
+      <description>The topic for October&amp;rsquo;s meetup is &amp;ldquo;Cloud IoT Core by Example&amp;rdquo; - please RSVP here.</description>
+    </item>
+    
+    <item>
+      <title>OC Google Cloud Platform Meetup - September 2017 - links</title>
+      <link>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup---september-2017---links/</link>
+      <pubDate>Wed, 27 Sep 2017 14:31:46 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup---september-2017---links/</guid>
+      <description>&lt;p&gt;Thanks to those that were able to attend the meeting last night. Here
+are some links to the content that was presented.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OC Google Cloud Platform Meetup - September 2017</title>
+      <link>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup---september-2017/</link>
+      <pubDate>Sun, 17 Sep 2017 06:21:41 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup---september-2017/</guid>
+      <description>The topic for September&amp;rsquo;s OC GCP meetup has been chosen by vote to be about &amp;ldquo;Containers on GCP&amp;rdquo;; please join me as I talk about the various ways to deploy a containerised solution on GCP. IaaS, PaaS-ish and CaaS will be discussed and examples given for each.
+See you at Neudesic HQ on Tuesday September 26th.</description>
+    </item>
+    
+    <item>
+      <title>OC Google Cloud Platform Meetup - August 2017 - links</title>
+      <link>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup---august-2017---links/</link>
+      <pubDate>Wed, 30 Aug 2017 15:52:35 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup---august-2017---links/</guid>
+      <description>&lt;p&gt;Thanks to those that were able to attend the meeting last night. Here
+are some links to the content that was presented.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OC Google Cloud Platform Meetup - August 2017</title>
+      <link>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup---august-2017/</link>
+      <pubDate>Sun, 13 Aug 2017 02:21:41 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup---august-2017/</guid>
+      <description>The topic for August&amp;rsquo;s OC GCP meetup is &amp;ldquo;Introduction to Serverless on GCP&amp;rdquo;; please join me as I talk about Cloud Functions and how to use them with other Google APIs. I will give a quick demonstration of how to string together Cloud Speech API and Cloud Translation API using Node.js to automatically process audio files uploaded to Cloud Storage bucket.</description>
+    </item>
+    
+  </channel>
+</rss>

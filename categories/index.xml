@@ -1,22 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Matthew Emes</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Matthew Emes</description>
+    <title>Categories on </title>
+    <link>https://matthewemes.com/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright © 2017 Matthew Emes. Except where explicitlty noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <copyright>Copyright © 2017 Matthew Emes. Except where explicitly noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (see https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matthewemes.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Work</title>
-      <link>/categories/work/</link>
-      <pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate>
+      <title>How To</title>
+      <link>https://matthewemes.com/categories/how-to/</link>
+      <pubDate>Fri, 10 Nov 2017 12:13:15 -0800</pubDate>
       
-      <guid>/categories/work/</guid>
+      <guid>https://matthewemes.com/categories/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>https://matthewemes.com/categories/meetup/</link>
+      <pubDate>Wed, 11 Oct 2017 17:33:41 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/categories/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://matthewemes.com/categories/personal/</link>
+      <pubDate>Thu, 02 Feb 2017 15:32:25 -0800</pubDate>
+      
+      <guid>https://matthewemes.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://matthewemes.com/categories/work/</link>
+      <pubDate>Fri, 29 Sep 2017 23:57:45 +0000</pubDate>
+      
+      <guid>https://matthewemes.com/categories/work/</guid>
       <description></description>
     </item>
     

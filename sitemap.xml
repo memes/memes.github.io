@@ -3,115 +3,270 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/dotnet-core-sdk-on-debian-testing/</loc>
+    <loc>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup---october-2017/</loc>
+    <lastmod>2017-10-11T17:33:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/09/installing-azure-cli-to-chromebook/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup---september-2017---links/</loc>
+    <lastmod>2017-09-27T14:31:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup---september-2017/</loc>
+    <lastmod>2017-09-17T06:21:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup---august-2017---links/</loc>
+    <lastmod>2017-08-30T15:52:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup---august-2017/</loc>
+    <lastmod>2017-08-13T02:21:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</loc>
     <lastmod>2017-06-06T13:46:46-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/google-certified-professional-cloud-architect/</loc>
+    <loc>https://matthewemes.com/2017/05/google-certified-professional-cloud-architect/</loc>
     <lastmod>2017-05-17T13:25:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/new-job-at-neudesic/</loc>
+    <loc>https://matthewemes.com/2017/04/im-joining-neudesic-to-build-a-google-cloud-team/</loc>
     <lastmod>2017-04-07T21:13:15-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/profinder/</loc>
+    <loc>https://matthewemes.com/2017/02/profinder/</loc>
     <lastmod>2017-02-04T20:44:21-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://matthewemes.com/2017/02/new-blog/</loc>
+    <lastmod>2017-02-02T15:32:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/about/</loc>
     <lastmod>2016-08-19T08:30:02-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/.net/</loc>
+    <loc>https://matthewemes.com/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/.net/</loc>
     <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://matthewemes.com/tags/az/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/consulting/</loc>
+    <loc>https://matthewemes.com/tags/azure/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/blog/</loc>
+    <lastmod>2017-02-02T15:32:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/chromebook/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/consulting/</loc>
     <lastmod>2017-02-04T20:44:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/debian/</loc>
+    <loc>https://matthewemes.com/tags/cookies/</loc>
+    <lastmod>2017-02-02T15:32:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/debian/</loc>
     <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/google-cloud-platform/</loc>
+    <loc>https://matthewemes.com/tags/dns/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/dnssec/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/gcp/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/google/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/google-cloud-platform/</loc>
     <lastmod>2017-05-17T13:25:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/linkedin/</loc>
+    <loc>https://matthewemes.com/categories/how-to/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/linkedin/</loc>
     <lastmod>2017-02-04T20:44:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/linux/</loc>
+    <loc>https://matthewemes.com/tags/linux/</loc>
     <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+    <loc>https://matthewemes.com/tags/meetup/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/neudesic/</loc>
+    <loc>https://matthewemes.com/categories/meetup/</loc>
+    <lastmod>2017-10-11T17:33:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/series/migrating-to-gcp/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/neudesic/</loc>
     <lastmod>2017-04-07T21:13:15-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+    <loc>https://matthewemes.com/tags/ocgcp/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/profinder/</loc>
+    <loc>https://matthewemes.com/categories/personal/</loc>
+    <lastmod>2017-02-02T15:32:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/post/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/profinder/</loc>
     <lastmod>2017-02-04T20:44:21-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/segfault/</loc>
+    <loc>https://matthewemes.com/tags/python/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/segfault/</loc>
     <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://matthewemes.com/series/</loc>
+    <lastmod>2017-11-10T12:13:15-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://matthewemes.com/tags/</loc>
     <lastmod>2017-06-06T13:46:46-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/work/</loc>
-    <lastmod>2017-06-06T13:46:46-07:00</lastmod>
+    <loc>https://matthewemes.com/tags/termux/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/tracking/</loc>
+    <lastmod>2017-02-02T15:32:25-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/tags/virtualenv/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewemes.com/categories/work/</loc>
+    <lastmod>2017-09-29T23:57:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
