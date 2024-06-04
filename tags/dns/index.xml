@@ -1,22 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dns on Matthew Emes</title><link>https://matthewemes.com/tags/dns/</link><description>Recent content in dns on Matthew Emes</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>memes@matthewemes.com (Matthew Emes)</managingEditor><webMaster>memes@matthewemes.com (Matthew Emes)</webMaster><copyright>Copyright © 2017-2023 Matthew Emes.
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Fri, 10 Nov 2017 12:13:15 -0800</lastBuildDate><atom:link href="https://matthewemes.com/tags/dns/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrate OC GCP domain to Google Cloud Platform, with DNSSEC enabled</title><link>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</link><pubDate>Fri, 10 Nov 2017 12:13:15 -0800</pubDate><author>memes@matthewemes.com (Matthew Emes)</author><guid>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</guid><description>&lt;p>As the demos for &lt;a
-href="https://meetup.com/oc-gcp/"
-class="link--external" target="_blank" rel="noreferrer"
->OC GCP Meetup&lt;/a> get
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dns on Matthew Emes</title><link>https://matthewemes.com/tags/dns/</link><description>Recent content in Dns on Matthew Emes</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2017-2024 Matthew Emes.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Fri, 10 Nov 2017 12:13:15 -0800</lastBuildDate><atom:link href="https://matthewemes.com/tags/dns/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrate OC GCP domain to Google Cloud Platform, with DNSSEC enabled</title><link>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</link><pubDate>Fri, 10 Nov 2017 12:13:15 -0800</pubDate><guid>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</guid><description>&lt;p>As the demos for &lt;a href="https://meetup.com/oc-gcp/" target="_blank" rel="noreferrer nofollow">OC GCP Meetup&lt;/a>
+get
 better and more interactive, I thought it was time to have a single
 domain that can be used to access them and to host future demos. This
-post, and the &lt;a
-href="https://matthewemes.com/series/migrating-to-gcp"
->others&lt;/a> that follow, will
+post, and the &lt;a href="https://matthewemes.com/series/migrating-to-gcp" >others&lt;/a>
+that follow, will
 show how to migrate or setup a new domain to use GCP services exclusively.&lt;/p>
-&lt;p>First step in the process is to transfer DNS responsibilities to &lt;a
-href="https://cloud.google.com/dns/"
-class="link--external" target="_blank" rel="noreferrer"
->Cloud
-DNS&lt;/a>; I&amp;rsquo;ll be using ocgcp.com domain in
+&lt;p>First step in the process is to transfer DNS responsibilities to &lt;a href="https://cloud.google.com/dns/" target="_blank" rel="noreferrer nofollow">Cloud
+DNS&lt;/a>
+; I&amp;rsquo;ll be using ocgcp.com domain in
 these examples, but nothing here is unique to our meetup. Since it&amp;rsquo;s
-2017, &lt;a
-href="http://www.dnssec.net/"
-class="link--external" target="_blank" rel="noreferrer"
->DNSSEC&lt;/a> will be enabled to offer as
+2017, &lt;a href="http://www.dnssec.net/" target="_blank" rel="noreferrer nofollow">DNSSEC&lt;/a>
+will be enabled to offer as
 much protection to our domain as possible.&lt;/p></description></item></channel></rss>
