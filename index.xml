@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matthew Emes</title><link>https://matthewemes.com/</link><description>Recent content on Matthew Emes</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2017-2024 Matthew Emes.
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><atom:link href="https://matthewemes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://matthewemes.com/about/</link><pubDate>Wed, 11 Aug 2021 15:45:02 -0700</pubDate><guid>https://matthewemes.com/about/</guid><description>I&amp;rsquo;m a Cloud Architect with too many years of application development and operations experience. I like to create new things from an initial idea and see them through to completion, and generally being on the bleeding edge of technology. This is probably why I agreed to host the GDG Cloud OC meetup on a monthly basis.
-I work at F5 as a Senior Global Solutions Architect with a focus on Google Cloud and cloud-native technologies.</description></item><item><title>Migrate OC GCP domain to Google Cloud Platform, with DNSSEC enabled</title><link>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</link><pubDate>Fri, 10 Nov 2017 12:13:15 -0800</pubDate><guid>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</guid><description>&lt;p>As the demos for &lt;a href="https://meetup.com/oc-gcp/" target="_blank" rel="noreferrer nofollow">OC GCP Meetup&lt;/a>
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><atom:link href="https://matthewemes.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://matthewemes.com/about/</link><pubDate>Wed, 11 Aug 2021 15:45:02 -0700</pubDate><guid>https://matthewemes.com/about/</guid><description>&lt;p>I&amp;rsquo;m a Cloud Architect with too many years of application development and
+operations experience. I like to create new things from an initial
+idea and see them through to completion, and generally being on the
+bleeding edge of technology. This is probably why I agreed
+to host the &lt;a href="https://gdgcloudoc.com/" target="_blank" rel="noreferrer nofollow">GDG Cloud OC&lt;/a>
+meetup on a monthly basis.&lt;/p>
+&lt;p>I work at &lt;a href="https://www.f5.com/" target="_blank" rel="noreferrer nofollow">F5&lt;/a>
+as a &lt;em>Senior Global Solutions Architect&lt;/em> with
+a focus on &lt;a href="https://cloud.google.com/" target="_blank" rel="noreferrer nofollow">Google Cloud&lt;/a>
+and &lt;a href="https://cncf.io/" target="_blank" rel="noreferrer nofollow">cloud-native&lt;/a>
+technologies.&lt;/p></description></item><item><title>Migrate OC GCP domain to Google Cloud Platform, with DNSSEC enabled</title><link>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</link><pubDate>Fri, 10 Nov 2017 12:13:15 -0800</pubDate><guid>https://matthewemes.com/2017/11/migrate-oc-gcp-domain-to-google-cloud-platform-with-dnssec-enabled/</guid><description>&lt;p>As the demos for &lt;a href="https://meetup.com/oc-gcp/" target="_blank" rel="noreferrer nofollow">OC GCP Meetup&lt;/a>
 get
 better and more interactive, I thought it was time to have a single
 domain that can be used to access them and to host future demos. This
@@ -13,18 +22,68 @@ DNS&lt;/a>
 these examples, but nothing here is unique to our meetup. Since it&amp;rsquo;s
 2017, &lt;a href="http://www.dnssec.net/" target="_blank" rel="noreferrer nofollow">DNSSEC&lt;/a>
 will be enabled to offer as
-much protection to our domain as possible.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - October 2017</title><link>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup-october-2017/</link><pubDate>Wed, 11 Oct 2017 17:33:41 +0000</pubDate><guid>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup-october-2017/</guid><description>The topic for October&amp;rsquo;s meetup is &amp;ldquo;Cloud IoT Core by Example&amp;rdquo; - please RSVP here .</description></item><item><title>Installing Azure CLI to Chromebook</title><link>https://matthewemes.com/2017/09/installing-azure-cli-to-chromebook/</link><pubDate>Fri, 29 Sep 2017 23:57:45 +0000</pubDate><guid>https://matthewemes.com/2017/09/installing-azure-cli-to-chromebook/</guid><description>&lt;p>I was asked to contribute to a white-paper for Azure container
+much protection to our domain as possible.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - October 2017</title><link>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup-october-2017/</link><pubDate>Wed, 11 Oct 2017 17:33:41 +0000</pubDate><guid>https://matthewemes.com/2017/10/oc-google-cloud-platform-meetup-october-2017/</guid><description>&lt;p>&lt;p class="imgp">
+&lt;img loading="lazy" src="cloud-iot-core.png" alt="Cloud IoT Core" />
+&lt;/p>
+&lt;/p>
+&lt;p>The topic for October&amp;rsquo;s meetup is &amp;ldquo;Cloud IoT Core by Example&amp;rdquo; - please
+RSVP &lt;a href="https://www.meetup.com/oc-gcp/events/242361939/" target="_blank" rel="noreferrer nofollow">here&lt;/a>
+.&lt;/p></description></item><item><title>Installing Azure CLI to Chromebook</title><link>https://matthewemes.com/2017/09/installing-azure-cli-to-chromebook/</link><pubDate>Fri, 29 Sep 2017 23:57:45 +0000</pubDate><guid>https://matthewemes.com/2017/09/installing-azure-cli-to-chromebook/</guid><description>&lt;p>I was asked to contribute to a white-paper for Azure container
 services and as part of that task I naturally wanted to install the
 CLI. No problem to do so on Linux and Windows, but I encountered some
 problems when doing so for Termux and Chromebook. This post details
 how to resolve the issue on a Chromebook or other locked down
 environment.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - September 2017 - links</title><link>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup-september-2017-links/</link><pubDate>Wed, 27 Sep 2017 14:31:46 +0000</pubDate><guid>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup-september-2017-links/</guid><description>&lt;p>Thanks to those that were able to attend the meeting last night. Here
-are some links to the content that was presented.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - September 2017</title><link>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup-september-2017/</link><pubDate>Sun, 17 Sep 2017 06:21:41 +0000</pubDate><guid>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup-september-2017/</guid><description>The topic for September&amp;rsquo;s OC GCP meetup has been chosen by vote to be about &amp;ldquo;Containers on GCP&amp;rdquo;; please join me as I talk about the various ways to deploy a containerised solution on GCP. IaaS, PaaS-ish and CaaS will be discussed and examples given for each.
-See you at Neudesic HQ on Tuesday September 26th.</description></item><item><title>OC Google Cloud Platform Meetup - August 2017 - links</title><link>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017-links/</link><pubDate>Wed, 30 Aug 2017 15:52:35 +0000</pubDate><guid>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017-links/</guid><description>&lt;p>Thanks to those that were able to attend the meeting last night. Here
-are some links to the content that was presented.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - August 2017</title><link>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017/</link><pubDate>Sun, 13 Aug 2017 02:21:41 +0000</pubDate><guid>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017/</guid><description>The topic for August&amp;rsquo;s OC GCP meetup is &amp;ldquo;Introduction to Serverless on GCP&amp;rdquo;; please join me as I talk about Cloud Functions and how to use them with other Google APIs. I will give a quick demonstration of how to string together Cloud Speech API and Cloud Translation API using Node.js to automatically process audio files uploaded to Cloud Storage bucket.</description></item><item><title>.NET Core SDK on Debian Testing</title><link>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</link><pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate><guid>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</guid><description>Installing .NET Core SDK on Debian Testing tl;dr install missing packages libicu52, libssl1.0.0 and liblttng-ust0 downgrade curl to stable release 7.38.0-4+deb8u5 Update 6/11/2017:- Accidentally released the hold on curl/libcurl3, and dotnet command still works. I think that libcurl3 is only used when downloading framework and can be reset when done.
-As part of a series of posts on deploying .NET Core applications to GKE, I had to install .NET Core SDK to my Debian laptop and make it work correctly.</description></item><item><title>Google Certified Professional Cloud Architect</title><link>https://matthewemes.com/2017/05/google-certified-professional-cloud-architect/</link><pubDate>Wed, 17 May 2017 13:25:21 -0700</pubDate><guid>https://matthewemes.com/2017/05/google-certified-professional-cloud-architect/</guid><description>&lt;p>Today I passed my exam to become &lt;strong>Google Certified Professional Cloud
+are some links to the content that was presented.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - September 2017</title><link>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup-september-2017/</link><pubDate>Sun, 17 Sep 2017 06:21:41 +0000</pubDate><guid>https://matthewemes.com/2017/09/oc-google-cloud-platform-meetup-september-2017/</guid><description>&lt;p>The topic for September&amp;rsquo;s OC GCP meetup has been chosen by vote to be
+about &lt;em>&amp;ldquo;Containers on GCP&amp;rdquo;&lt;/em>; please join me as I talk about the various
+ways to deploy a containerised solution on GCP. IaaS, PaaS-ish and
+CaaS will be discussed and examples given for each.&lt;/p>
+&lt;p>See you at Neudesic HQ on Tuesday September 26th.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - August 2017 - links</title><link>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017-links/</link><pubDate>Wed, 30 Aug 2017 15:52:35 +0000</pubDate><guid>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017-links/</guid><description>&lt;p>Thanks to those that were able to attend the meeting last night. Here
+are some links to the content that was presented.&lt;/p></description></item><item><title>OC Google Cloud Platform Meetup - August 2017</title><link>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017/</link><pubDate>Sun, 13 Aug 2017 02:21:41 +0000</pubDate><guid>https://matthewemes.com/2017/08/oc-google-cloud-platform-meetup-august-2017/</guid><description>&lt;p>The topic for August&amp;rsquo;s OC GCP meetup is &lt;em>&amp;ldquo;Introduction to Serverless on
+GCP&amp;rdquo;&lt;/em>; please join me as I talk about &lt;a href="https://cloud.google.com/functions/" target="_blank" rel="noreferrer nofollow">Cloud
+Functions&lt;/a>
+and how to use them
+with other Google APIs. I will give a quick demonstration of how to
+string together &lt;a href="https://cloud.google.com/speech/" target="_blank" rel="noreferrer nofollow">Cloud Speech API&lt;/a>
+and &lt;a href="https://cloud.google.com/translate/" target="_blank" rel="noreferrer nofollow">Cloud Translation API&lt;/a>
+using Node.js
+to automatically process audio files uploaded to &lt;a href="https://cloud.google.com/storage/" target="_blank" rel="noreferrer nofollow">Cloud Storage&lt;/a>
+bucket.&lt;/p></description></item><item><title>.NET Core SDK on Debian Testing</title><link>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</link><pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate><guid>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</guid><description>&lt;h1 id="installing-net-core-sdk-on-debian-testing">Installing .NET Core SDK on Debian Testing&lt;/h1>
+&lt;h2 id="tldr">tl;dr&lt;/h2>
+&lt;ul>
+&lt;li>install missing packages libicu52, libssl1.0.0 and liblttng-ust0&lt;/li>
+&lt;li>downgrade curl to &lt;code>stable&lt;/code> release 7.38.0-4+deb8u5&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;h2 id="update-6112017-">Update 6/11/2017:-&lt;/h2>
+&lt;p>Accidentally released the hold on &lt;code>curl&lt;/code>/&lt;code>libcurl3&lt;/code>, and &lt;code>dotnet&lt;/code>
+command still works. I think that &lt;code>libcurl3&lt;/code> is only used when
+downloading framework and can be reset when done.&lt;/p>
+&lt;/blockquote>
+&lt;p>As part of a series of posts on deploying .NET Core applications to
+GKE, I had to install .NET Core SDK to my Debian laptop and make it
+work correctly. &lt;code>curl&lt;/code> and &lt;code>gettext&lt;/code> packages were already installed, so
+only &lt;code>libunwind8&lt;/code> was required.&lt;/p></description></item><item><title>Google Certified Professional Cloud Architect</title><link>https://matthewemes.com/2017/05/google-certified-professional-cloud-architect/</link><pubDate>Wed, 17 May 2017 13:25:21 -0700</pubDate><guid>https://matthewemes.com/2017/05/google-certified-professional-cloud-architect/</guid><description>&lt;p>Today I passed my exam to become &lt;strong>Google Certified Professional Cloud
 Architect&lt;/strong>! Glad that&amp;rsquo;s out the way, and I can now focus on building
-the practice at Neudesic.&lt;/p></description></item><item><title>I'm joining Neudesic to build a Google Cloud team</title><link>https://matthewemes.com/2017/04/im-joining-neudesic-to-build-a-google-cloud-team/</link><pubDate>Fri, 07 Apr 2017 21:13:15 -0700</pubDate><guid>https://matthewemes.com/2017/04/im-joining-neudesic-to-build-a-google-cloud-team/</guid><description>I&amp;rsquo;ve decided to accept a new challenge, and join the Neudesic team. I&amp;rsquo;m to be their new Director, Google Cloud, helping to build a team ready to work on Google Cloud Platform projects.
-Wish me luck!</description></item><item><title>Profinder</title><link>https://matthewemes.com/2017/02/profinder/</link><pubDate>Sat, 04 Feb 2017 20:44:21 -0800</pubDate><guid>https://matthewemes.com/2017/02/profinder/</guid><description>I responded to my first Profinder request earlier today, and I am curious to see how well it works in practice. Seems like people simply fill in a form with a few key items, and LinkedIn mines it&amp;rsquo;s database for matching profiles that have signed up for Profinder.
-I don&amp;rsquo;t know how well this will work out for development projects, as the details as provided by the potential client are not very detailed and I can see how there will be a lot of back and forth in order to create a realistic proposal, but I&amp;rsquo;m willing to give it a shot.</description></item><item><title>New blog</title><link>https://matthewemes.com/2017/02/new-blog/</link><pubDate>Thu, 02 Feb 2017 15:32:25 -0800</pubDate><guid>https://matthewemes.com/2017/02/new-blog/</guid><description>I think it&amp;rsquo;s about time this blog was brought back from the brink of death! I&amp;rsquo;m going to post more often on the stuff I&amp;rsquo;m working on, and about things in general.
-Minimal Tracking Quick note about tracking and cookies - I&amp;rsquo;ve decided not to use Disqus, or other third-party discussion options because I don&amp;rsquo;t want to add to the cookies I&amp;rsquo;m setting. I am using Google Analytics to track visits and see what content is being accessed; I don&amp;rsquo;t care about unique visits or other details.</description></item></channel></rss>
+the practice at Neudesic.&lt;/p></description></item><item><title>I'm joining Neudesic to build a Google Cloud team</title><link>https://matthewemes.com/2017/04/im-joining-neudesic-to-build-a-google-cloud-team/</link><pubDate>Fri, 07 Apr 2017 21:13:15 -0700</pubDate><guid>https://matthewemes.com/2017/04/im-joining-neudesic-to-build-a-google-cloud-team/</guid><description>&lt;p>I&amp;rsquo;ve decided to accept a new challenge, and join
+the &lt;a href="https://www.neudesic.com/" target="_blank" rel="noreferrer nofollow">Neudesic&lt;/a>
+team. I&amp;rsquo;m to be their new
+&lt;em>Director, Google Cloud&lt;/em>, helping to build a team ready to work on
+&lt;a href="https://cloud.google.com" target="_blank" rel="noreferrer nofollow">Google Cloud Platform&lt;/a>
+projects.&lt;/p>
+&lt;p>Wish me luck!&lt;/p></description></item><item><title>Profinder</title><link>https://matthewemes.com/2017/02/profinder/</link><pubDate>Sat, 04 Feb 2017 20:44:21 -0800</pubDate><guid>https://matthewemes.com/2017/02/profinder/</guid><description>&lt;p>I responded to my first Profinder request earlier today, and I am
+curious to see how well it works in practice. Seems like people simply
+fill in a form with a few key items, and LinkedIn mines it&amp;rsquo;s database
+for matching profiles that have signed up for Profinder.&lt;/p>
+&lt;p>I don&amp;rsquo;t know how well this will work out for development projects, as
+the details as provided by the potential client are not very detailed
+and I can see how there will be a lot of back and forth in order to
+create a realistic proposal, but I&amp;rsquo;m willing to give it a shot.&lt;/p></description></item><item><title>New blog</title><link>https://matthewemes.com/2017/02/new-blog/</link><pubDate>Thu, 02 Feb 2017 15:32:25 -0800</pubDate><guid>https://matthewemes.com/2017/02/new-blog/</guid><description>&lt;p>I think it&amp;rsquo;s about time this blog was brought back from the brink of
+death! I&amp;rsquo;m going to post more often on the stuff I&amp;rsquo;m working on, and
+about things in general.&lt;/p>
+&lt;h4 id="minimal-tracking">Minimal Tracking&lt;/h4>
+&lt;p>Quick note about tracking and cookies - I&amp;rsquo;ve decided not to use
+Disqus, or other third-party discussion options because I don&amp;rsquo;t
+want to add to the cookies I&amp;rsquo;m setting. I am using Google Analytics to
+track visits and see what content is being accessed; I don&amp;rsquo;t care
+about unique visits or other details. Clean your cookies!&lt;/p></description></item></channel></rss>
