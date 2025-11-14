@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>.Net on Matthew Emes</title><link>https://matthewemes.com/tags/.net/</link><description>Recent content in .Net on Matthew Emes</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2017-2024 Matthew Emes.
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Tue, 06 Jun 2017 13:46:46 -0700</lastBuildDate><atom:link href="https://matthewemes.com/tags/.net/index.xml" rel="self" type="application/rss+xml"/><item><title>.NET Core SDK on Debian Testing</title><link>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</link><pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate><guid>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</guid><description>&lt;h1 id="installing-net-core-sdk-on-debian-testing">Installing .NET Core SDK on Debian Testing&lt;/h1>
-&lt;h2 id="tldr">tl;dr&lt;/h2>
-&lt;ul>
-&lt;li>install missing packages libicu52, libssl1.0.0 and liblttng-ust0&lt;/li>
-&lt;li>downgrade curl to &lt;code>stable&lt;/code> release 7.38.0-4+deb8u5&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;h2 id="update-6112017-">Update 6/11/2017:-&lt;/h2>
-&lt;p>Accidentally released the hold on &lt;code>curl&lt;/code>/&lt;code>libcurl3&lt;/code>, and &lt;code>dotnet&lt;/code>
-command still works. I think that &lt;code>libcurl3&lt;/code> is only used when
-downloading framework and can be reset when done.&lt;/p>
-&lt;/blockquote>
-&lt;p>As part of a series of posts on deploying .NET Core applications to
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Tue, 06 Jun 2017 13:46:46 -0700</lastBuildDate><atom:link href="https://matthewemes.com/tags/.net/index.xml" rel="self" type="application/rss+xml"/><item><title>.NET Core SDK on Debian Testing</title><link>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</link><pubDate>Tue, 06 Jun 2017 13:46:46 -0700</pubDate><guid>https://matthewemes.com/2017/06/.net-core-sdk-on-debian-testing/</guid><description>&lt;h1 id="installing-net-core-sdk-on-debian-testing"&gt;Installing .NET Core SDK on Debian Testing&lt;/h1&gt;
+&lt;h2 id="tldr"&gt;tl;dr&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;install missing packages libicu52, libssl1.0.0 and liblttng-ust0&lt;/li&gt;
+&lt;li&gt;downgrade curl to &lt;code&gt;stable&lt;/code&gt; release 7.38.0-4+deb8u5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h2 id="update-6112017-"&gt;Update 6/11/2017:-&lt;/h2&gt;
+&lt;p&gt;Accidentally released the hold on &lt;code&gt;curl&lt;/code&gt;/&lt;code&gt;libcurl3&lt;/code&gt;, and &lt;code&gt;dotnet&lt;/code&gt;
+command still works. I think that &lt;code&gt;libcurl3&lt;/code&gt; is only used when
+downloading framework and can be reset when done.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As part of a series of posts on deploying .NET Core applications to
 GKE, I had to install .NET Core SDK to my Debian laptop and make it
-work correctly. &lt;code>curl&lt;/code> and &lt;code>gettext&lt;/code> packages were already installed, so
-only &lt;code>libunwind8&lt;/code> was required.&lt;/p></description></item></channel></rss>
+work correctly. &lt;code&gt;curl&lt;/code&gt; and &lt;code&gt;gettext&lt;/code&gt; packages were already installed, so
+only &lt;code&gt;libunwind8&lt;/code&gt; was required.&lt;/p&gt;</description></item></channel></rss>
